@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">RICE SHOP</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="ecobrown_s_original">ecoBrown\'s ORIGINAL</string>
+    <string name="packing_size_5kg_org">PACKING SIZE ：5kg</string>
+    <string name="ingredient_100_natural_brown_rice">INGREDIENT :100% Natural Brown Rice</string>
+    <string name="rm33_00">RM33.00</string>
+    <string name="menu">Menu</string>
+    <string name="jati_super_special1">Jati Super Special</string>
+    <string name="ecobrown_s_gold">ecoBrown\'s GOLD</string>
+    <string name="ecobrown_s_original_menu">ecoBrown\'s ORIGINAL</string>
+    <string name="jati_super_special">Jati Super Special</string>
+    <string name="texture_medium_hard">TEXTURE ：Medium Hard</string>
+    <string name="grade_of_rice_thai_super_special_5">GRADE OF RICE :Thai Super Special 5%</string>
+    <string name="rm19_00">RM19.00</string>
+    <string name="rm_18_00">RM 18.00</string>
+    <string name="grade_of_rice_parboiled_rice_aaa">GRADE OF RICE : Parboiled Rice (AAA)</string>
+    <string name="texture_medium_hard_and_fluffy">TEXTURE ：Medium Hard and Fluffy</string>
+    <string name="jati_rebus">Jati Rebus</string>
+    <string name="rm24_00">RM24.00</string>
+    <string name="grade_of_rice_local_super_long_grain_5">GRADE OF RICE : Local Super Long Grain 5%</string>
+    <string name="kapal_layar_biru">Kapal Layar Biru</string>
+    <string name="packing_size_10kg">PACKING SIZE ：10kg</string>
+    <string name="country_of_origin_thailand">COUNTRY OF ORIGIN ：Thailand</string>
+    <string name="texture_hard">TEXTURE ：Hard</string>
+    <string name="grade_of_rice_super_import">GRADE OF RICE : Super Import</string>
+    <string name="rm32_00">RM32.00</string>
+    <string name="add_order">ADD ORDER</string>
+    <string name="ecobrown_s_gold_detial">ecoBrown\'s GOLD</string>
+    <string name="packing_size_5kg">PACKING SIZE ：5kg</string>
+    <string name="country_of_origin_malaysia">COUNTRY OF ORIGIN ：Malaysia</string>
+    <string name="texture_medium_hard_and_chewy">TEXTURE ：Medium Hard and Chewy</string>
+    <string name="ingredient_brown_rice_red_rice_black_rice">INGREDIENT : Brown Rice, Red Rice, Black Rice</string>
+    <string name="carnation_apple_gold">Carnation Apple Gold</string>
+    <string name="rm_32_00">RM 32.00</string>
+    <string name="ecobrown_s_gold_order">ecoBrown\'s GOLD</string>
+    <string name="confirm">Confirm</string>
+    <string name="rm40_00">RM40.00</string>
+    <string name="jati_super_detial">jati_super_detial</string>
+    <string name="kapal_layar_detial">kapal_layar_detial</string>
+    <string name="carnation_detial">carnation_detial</string>
+    <string name="ecobrown_s_original_detial">ecobrown_s_original_detial</string>
+    <string name="title_order">title_order</string>
+    <string name="ingredient_100_natural_brown_rice_org">ingredient_100_natural_brown_rice_org</string>
+    <string name="country_of_origin_malaysia_org">country_of_origin_malaysia_org</string>
+    <string name="texture_medium_hard_and_chewy_org">texture_medium_hard_and_chewy_org</string>
+    <string name="carnation_apple_gold_order">carnation_apple_gold_order</string>
+    <string name="confirm_order">confirm_order</string>
+    <string name="rm40_00_order">rm40_00_order</string>
+    <string name="rm40_00_eco_gold">rm40_00_eco_gold</string>
+    <string name="rm32_00_carnation">rm32_00_carnation</string>
+    <string name="add_order_jati_super">add_order_jati_super</string>
+    <string name="add_order_jati_rebus">add_order_jati_rebus</string>
+    <string name="add_order_carnation">add_order_carnation</string>
+</resources>
